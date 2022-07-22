@@ -49,6 +49,8 @@ I named this visualization as
 For the design part, I used one side pane as black color and plane purple background with graphs being shown on black background.
 Also, for icons I used the logomakr site to fetch the icons and Figma for the plane background.
 
+For the better visualization purpose of each pages namely "Summary", "Channel Analytics" and "Year Wise Analytics", I decreased the transparency of other icons in the visualization when one page is showing.
+
 
 ## Additional Features Used of Power BI:
 
