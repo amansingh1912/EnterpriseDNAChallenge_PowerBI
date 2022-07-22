@@ -10,16 +10,14 @@ And, 1 pdf file explaining about the guidelines.
 ## Tools Used: Power BI, logomakr.com (for ready-made colored icons) and Figma ( for background )
 
 ## Steps Taken to Analyze the Data:
-* According to the dataset, it was mentioned about different video IDs with their respective titles provided. So, I tried to analyze the dataset with respect to top video IDs with their likes, shares, subscriber gained, etc. It was the first part of the analysis which I named typically in the visualization as 
+* According to the dataset, it was mentioned about different video IDs with their respective titles provided. So, I tried to analyze the dataset with respect to top video IDs with their likes, shares, subscriber gained, etc. via bar charts. It was the first part of the analysis which I named typically in the visualization as 
 ## Channel Analytics.
 ![excel ss](https://user-images.githubusercontent.com/72240938/180280072-5c368ebf-7163-4a6a-a515-a76b3d9ea440.jpg)
-
 # Power BI - Channel Wise Analytics
-
 ![channel analytics](https://user-images.githubusercontent.com/72240938/180285563-b5031e3e-7308-47ef-acff-3da7d00dd84f.jpg)
 
 
-* Another part of the analysis, which I analyzed according to the dataset was the year wise analysis of the channel growth on different aspects as mentioned like shares, subsriber gained, likes, etc. 
+* Another part of the analysis, which I analyzed according to the dataset was the year wise analysis of the channel growth on different aspects as mentioned like shares, subsriber gained, likes, etc. via area charts.
 For this, as in the actual dataset, date was mentioned so by using the basic DAX function for finding year as mentioned below in the column, I made the Year column in Power BI as shown below.
 
 I named the visualization for it as
