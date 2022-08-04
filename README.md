@@ -54,7 +54,7 @@ For the better visualization purpose of each pages namely "Summary", "Channel An
 
 In this visualization, I used the selection and bookmark property of Power BI to make the slicer panel responsive and page navigation to navigate through different pages.
 
-## [Dashboard Link](https://app.powerbi.com/links/5TVx9FD0NB?ctid=41ef9d53-cb31-4b40-a55d-0893334a4059&pbi_source=linkShare)
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2ExMTBjZjQtYjFhMy00NGVmLWE2YTgtYmQwNjE3YThhZGMwIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
 
 ## Conclusion:
 
